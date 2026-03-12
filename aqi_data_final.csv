@@ -1,0 +1,123 @@
+rank,city,country,aqi_value,timestamp,aqi_category
+1,Kolkata,India,191,2026-03-12 14:45:25,Unhealthy
+2,Bishkek,Kyrgyzstan,168,2026-03-12 14:45:25,Unhealthy
+3,Kathmandu,Nepal,166,2026-03-12 14:45:25,Unhealthy
+4,Beijing,China,164,2026-03-12 14:45:25,Unhealthy
+5,Kinshasa,Democratic Republic of the Congo,153,2026-03-12 14:45:25,Unhealthy
+6,Dhaka,Bangladesh,151,2026-03-12 14:45:25,Unhealthy
+7,Mumbai,India,139,2026-03-12 14:45:25,Unhealthy for Sensitive Groups
+8,Hanoi,Vietnam,137,2026-03-12 14:45:25,Unhealthy for Sensitive Groups
+9,Chengdu,China,134,2026-03-12 14:45:25,Unhealthy for Sensitive Groups
+10,Dakar,Senegal,133,2026-03-12 14:45:25,Unhealthy for Sensitive Groups
+11,Tashkent,Uzbekistan,127,2026-03-12 14:45:25,Unhealthy for Sensitive Groups
+12,Pristina,Kosovo,125,2026-03-12 14:45:25,Unhealthy for Sensitive Groups
+13,Warsaw,Poland,117,2026-03-12 14:45:25,Unhealthy for Sensitive Groups
+14,Delhi,India,115,2026-03-12 14:45:25,Unhealthy for Sensitive Groups
+15,Karachi,Pakistan,113,2026-03-12 14:45:25,Unhealthy for Sensitive Groups
+16,Kraków,Poland,108,2026-03-12 14:45:25,Unhealthy for Sensitive Groups
+17,Tel Aviv-Yafo,Israel,105,2026-03-12 14:45:25,Unhealthy for Sensitive Groups
+18,Incheon,South Korea,105,2026-03-12 14:45:25,Unhealthy for Sensitive Groups
+19,Shanghai,China,105,2026-03-12 14:45:25,Unhealthy for Sensitive Groups
+20,Almaty,Kazakhstan,105,2026-03-12 14:45:25,Unhealthy for Sensitive Groups
+21,Manama,Bahrain,97,2026-03-12 14:45:25,Moderate
+22,Milan,Italy,97,2026-03-12 14:45:25,Moderate
+23,Jerusalem,Israel,96,2026-03-12 14:45:25,Moderate
+24,Helsinki,Finland,96,2026-03-12 14:45:25,Moderate
+25,Bangkok,Thailand,96,2026-03-12 14:45:25,Moderate
+26,Wuhan,China,94,2026-03-12 14:45:25,Moderate
+27,Accra,Ghana,93,2026-03-12 14:45:25,Moderate
+28,Bratislava,Slovakia,90,2026-03-12 14:45:25,Moderate
+29,Budapest,Hungary,88,2026-03-12 14:45:25,Moderate
+30,Algiers,Algeria,84,2026-03-12 14:45:25,Moderate
+31,Cairo,Egypt,84,2026-03-12 14:45:25,Moderate
+32,Riyadh,Saudi Arabia,84,2026-03-12 14:45:25,Moderate
+33,Skopje,North Macedonia,84,2026-03-12 14:45:25,Moderate
+34,Sarajevo,Bosnia Herzegovina,82,2026-03-12 14:45:25,Moderate
+35,Hangzhou,China,82,2026-03-12 14:45:25,Moderate
+36,Ho Chi Minh City,Vietnam,82,2026-03-12 14:45:25,Moderate
+37,Kuwait City,Kuwait,80,2026-03-12 14:45:25,Moderate
+38,Hong Kong,Hong Kong SAR,79,2026-03-12 14:45:25,Moderate
+39,Addis Ababa,Ethiopia,78,2026-03-12 14:45:25,Moderate
+40,Mexico City,Mexico,78,2026-03-12 14:45:25,Moderate
+41,Vienna,Austria,77,2026-03-12 14:45:25,Moderate
+42,Seoul,South Korea,77,2026-03-12 14:45:25,Moderate
+43,Dubai,United Arab Emirates,77,2026-03-12 14:45:25,Moderate
+44,Medan,Indonesia,74,2026-03-12 14:45:25,Moderate
+45,Sofia,Bulgaria,73,2026-03-12 14:45:25,Moderate
+46,Bogota,Colombia,72,2026-03-12 14:45:25,Moderate
+47,Baghdad,Iraq,69,2026-03-12 14:45:25,Moderate
+48,Doha,Qatar,69,2026-03-12 14:45:25,Moderate
+49,Phnom Penh,Cambodia,69,2026-03-12 14:45:25,Moderate
+50,Chiang Mai,Thailand,69,2026-03-12 14:45:25,Moderate
+51,Kampala,Uganda,68,2026-03-12 14:45:25,Moderate
+52,Athens,Greece,68,2026-03-12 14:45:25,Moderate
+53,Jakarta,Indonesia,68,2026-03-12 14:45:25,Moderate
+54,Lahore,Pakistan,66,2026-03-12 14:45:25,Moderate
+55,Kaohsiung,Taiwan,65,2026-03-12 14:45:25,Moderate
+56,Moscow,Russia,65,2026-03-12 14:45:25,Moderate
+57,Yangon,Myanmar,64,2026-03-12 14:45:25,Moderate
+58,Chongqing,China,64,2026-03-12 14:45:25,Moderate
+59,Shenzhen,China,63,2026-03-12 14:45:25,Moderate
+60,Busan,South Korea,63,2026-03-12 14:45:25,Moderate
+61,New York,USA,63,2026-03-12 14:45:25,Moderate
+62,Nice,France,62,2026-03-12 14:45:25,Moderate
+63,Nairobi,Kenya,60,2026-03-12 14:45:25,Moderate
+64,Istanbul,Turkey,60,2026-03-12 14:45:25,Moderate
+65,Belgrade,Serbia,60,2026-03-12 14:45:25,Moderate
+66,Guangzhou,China,60,2026-03-12 14:45:25,Moderate
+67,Taipei,Taiwan,58,2026-03-12 14:45:25,Moderate
+68,Zagreb,Croatia,58,2026-03-12 14:45:25,Moderate
+69,Singapore,Singapore,56,2026-03-12 14:45:25,Moderate
+70,Rome,Italy,55,2026-03-12 14:45:25,Moderate
+71,Barcelona,Spain,55,2026-03-12 14:45:25,Moderate
+72,Berlin,Germany,55,2026-03-12 14:45:25,Moderate
+73,Ljubljana,Slovenia,53,2026-03-12 14:45:25,Moderate
+74,Bucharest,Romania,52,2026-03-12 14:45:25,Moderate
+75,Minneapolis,USA,52,2026-03-12 14:45:25,Moderate
+76,Wrocław,Poland,51,2026-03-12 14:45:25,Moderate
+77,Paris,France,50,2026-03-12 14:45:25,Good
+78,Prague,Czech Republic,50,2026-03-12 14:45:25,Good
+79,London,United Kingdom,50,2026-03-12 14:45:25,Good
+80,Lima,Peru,49,2026-03-12 14:45:25,Good
+81,Brussels,Belgium,48,2026-03-12 14:45:25,Good
+82,Stockholm,Sweden,45,2026-03-12 14:45:25,Good
+83,Kuching,Malaysia,44,2026-03-12 14:45:25,Good
+84,Kyiv,Ukraine,44,2026-03-12 14:45:25,Good
+85,Tokyo,Japan,44,2026-03-12 14:45:25,Good
+86,Los Angeles,USA,44,2026-03-12 14:45:25,Good
+87,Lisbon,Portugal,42,2026-03-12 14:45:25,Good
+88,Madrid,Spain,39,2026-03-12 14:45:25,Good
+89,Santiago,Chile,38,2026-03-12 14:45:25,Good
+90,Krasnoyarsk,Russia,36,2026-03-12 14:45:25,Good
+91,Osaka,Japan,36,2026-03-12 14:45:25,Good
+92,Montreal,Canada,36,2026-03-12 14:45:25,Good
+93,Washington D.C.,USA,35,2026-03-12 14:45:25,Good
+94,Ulaanbaatar,Mongolia,35,2026-03-12 14:45:25,Good
+95,Birmingham,United Kingdom,33,2026-03-12 14:45:25,Good
+96,Lyon,France,33,2026-03-12 14:45:25,Good
+97,Kyoto,Japan,33,2026-03-12 14:45:25,Good
+98,Kuala Lumpur,Malaysia,28,2026-03-12 14:45:25,Good
+99,Dublin,Ireland,28,2026-03-12 14:45:25,Good
+100,Kobe,Japan,28,2026-03-12 14:45:25,Good
+101,Johannesburg,South Africa,27,2026-03-12 14:45:25,Good
+102,Auckland,New Zealand,24,2026-03-12 14:45:25,Good
+103,Toronto,Canada,24,2026-03-12 14:45:25,Good
+104,Munich,Germany,22,2026-03-12 14:45:25,Good
+105,Sao Paulo,Brazil,22,2026-03-12 14:45:25,Good
+106,Copenhagen,Denmark,21,2026-03-12 14:45:25,Good
+107,Canberra,Australia,21,2026-03-12 14:45:25,Good
+108,Melbourne,Australia,21,2026-03-12 14:45:25,Good
+109,Denver,USA,19,2026-03-12 14:45:25,Good
+110,Salt Lake City,USA,19,2026-03-12 14:45:25,Good
+111,San Francisco,USA,19,2026-03-12 14:45:25,Good
+112,Houston,USA,17,2026-03-12 14:45:25,Good
+113,Sydney,Australia,17,2026-03-12 14:45:25,Good
+114,Bern,Switzerland,15,2026-03-12 14:45:25,Good
+115,Chicago,USA,15,2026-03-12 14:45:25,Good
+116,Oslo,Norway,14,2026-03-12 14:45:25,Good
+117,Vancouver,Canada,11,2026-03-12 14:45:25,Good
+118,Detroit,USA,11,2026-03-12 14:45:25,Good
+119,Seattle,USA,6,2026-03-12 14:45:25,Good
+120,Portland,USA,3,2026-03-12 14:45:25,Good
+121,Batam,Indonesia,0,2026-03-12 14:45:25,Good
+122,Baku,Azerbaijan,0,2026-03-12 14:45:25,Good

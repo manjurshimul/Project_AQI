@@ -1,0 +1,1 @@
+website = https://www.iqair.com/world-air-quality-ranking
